@@ -13,3 +13,5 @@ function indicesMaiorMenor(array) {
 
 const numeros = [3, 5, 1, 9, 7];
 console.log(indicesMaiorMenor(numeros));
+
+module.exports = indicesMaiorMenor;

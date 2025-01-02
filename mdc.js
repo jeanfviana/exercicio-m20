@@ -7,3 +7,5 @@ function calcularMDC(a, b) {
 
 
 console.log(calcularMDC(12, 8)); 
+
+module.exports = calcularMDC;
